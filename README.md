@@ -16,7 +16,6 @@ A touchless water tap system that detects hand presence and controls water flow 
 ## Project Files
 - Project Presentation (PPT)
 - Circuit Diagram
-- 
 
 ## Developed By
 Yedugani Rishitha
